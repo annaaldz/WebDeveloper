@@ -1,0 +1,21 @@
+fieldset
+{
+	border: 1px solid silver;
+	margin: 8px;
+	padding: 10px;
+	border-radius: 4px;
+	width: 690px;
+}
+
+#div_form
+{
+	width: 705px;
+	position: relative;
+	margin: auto;
+}
+
+#img_alunos
+{border-radius: 100%; width: 100px; height: 100px;}
+
+#img_alunos:hover
+{	width: 600px; height: 600px; position: fixed; top: 0px; margin-left: -60px; }
